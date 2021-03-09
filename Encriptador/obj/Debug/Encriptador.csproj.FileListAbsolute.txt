@@ -1,0 +1,15 @@
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.exe.config
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.exe
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.pdb
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csprojAssemblyReference.cache
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\MainWindow.g.cs
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\App.g.cs
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador_MarkupCompile.cache
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador_MarkupCompile.lref
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\MainWindow.baml
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.g.resources
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.Properties.Resources.resources
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.GenerateResource.cache
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.CoreCompileInputs.cache
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.exe
+C:\Users\julian.lastra\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.pdb

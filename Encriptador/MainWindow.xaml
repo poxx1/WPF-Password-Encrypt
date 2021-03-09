@@ -1,0 +1,16 @@
+﻿<Window x:Class="Encriptador.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Encriptador"
+        mc:Ignorable="d"
+        Title="MD5 Crypt" Height="125.072" Width="166.794">
+    <Grid>
+        <Button Content="Encriptar" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,26,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="132"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="42,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.179,0.211"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="117,58,0,0" VerticalAlignment="Top" Width="25" Click="Button_Click"/>
+
+    </Grid>
+</Window>
